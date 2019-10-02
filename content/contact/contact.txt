@@ -1,0 +1,11 @@
+Title: Kontakt
+----
+Heading: Kontaktieren Sie mich!
+----
+Text: mail@adresse.de
+----
+Phone: 12343423
+----
+Street: Blubbstr. 34
+----
+City: Berlin

@@ -1,0 +1,3 @@
+Title: Error
+----
+Text: Ups, something went wrong!
